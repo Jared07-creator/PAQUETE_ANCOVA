@@ -1,0 +1,12 @@
+Package: ANCOVA
+Type: Package
+Title: PAQUETE ANCOVA
+Version: 0.1.0
+Author: Milian Hernádez Luis Jared
+Maintainer: ¿Quien mantiene el paquete? <mihejared@gmail.com>
+Description: Realiza los cálculos correspondientes para el análisis de covarianza en bloques completos al azar y  al final obtiene dos tablas que permiten conocer que tan influyente resultó una covariable en los resultados de su experimento: la primera tabla trae consigo la suma de cuadrados de los bloques, tratamientos, total, error y error ajustado; la segunda tabla alberga las F tabuladas para los tratamientos y covariables más F calculada para los tratamientos y covariable, aunado al valor del coeficiente de covarianza con el cual con ayuda de la función "ANCOVA_AJUST" que alberga este paquete, podrá hacer el ajuste de medias correspondiente en caso de que su covariable haya resultado significativa.
+References: @book{Fernández Escobar_Casas_Giménez_de Agricultura y Pesca_2010, title={Experimentación en agricultura}, ISBN={9788484742814}, author={Fernández Escobar, R. and Casas, Antonio Trapero and Giménez, Juan Domínguez and de Agricultura y Pesca, Andalusia Consejería}, year={2010}, language={es} }
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
