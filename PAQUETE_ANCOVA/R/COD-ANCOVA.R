@@ -33,7 +33,7 @@
 #'en grano en kilogramos por parcela. El diseño experimental.
 #'
 #'DATOS:
-#'  df <- data.frame(bloque = c(1,1,1,1,1,1,,2,2,2,2,2,2,3,3,3,3,3,3),
+#'  df <- data.frame(bloque = c(1,1,1,1,1,1,2,2,2,2,2,2,3,3,3,3,3,3),
 #'                   tratamiento = c(1,1,1,1,1,1,2,2,2,2,2,2,3,3,3,3,3,3),
 #'                   Nplantas = c(41,24,31,46,32,38,37,32,38,41,42,40,37,34,47,41,50,39),
 #'                   producción = c(4.08,2.78, 2.79, 4.24, 4.17, 2.62, 4.72, 4.92, 4.5,
